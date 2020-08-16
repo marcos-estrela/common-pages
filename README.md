@@ -36,7 +36,7 @@ And you'll be able to use the component!
 
 ## Examples
 
-*Screenshots example can only be seen at https://github.com/marcos-estrela/common-pages
+*Screenshots examples can only be seen at https://github.com/marcos-estrela/common-pages
 
 ### Log in page
 ![Login Page](screenshots/LoginPage.png)
