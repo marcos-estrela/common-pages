@@ -36,8 +36,10 @@ And you'll be able to use the component!
 
 ## Examples
 
+*Screenshots example can only be seen at https://github.com/marcos-estrela/common-pages
+
 ### Log in page
-![Alt text](screenshots/LoginPage.png "Login Page")
+![Login Page](screenshots/LoginPage.png)
 
 ```javascript
 const data = {
@@ -75,7 +77,7 @@ const data = {
 <hr style="border:2px solid gray"> </hr>
 
 
-![Alt text](screenshots/ChangePasswordPage.png "Change Password Page")
+![Change Password Page](screenshots/ChangePasswordPage.png)
 
 ```javascript
 const changePasswordPage = {
@@ -101,7 +103,7 @@ const changePasswordPage = {
 <hr style="border:2px solid gray"> </hr>
 
 
-![Alt text](screenshots/RegisterPage.png "Register Page")
+![Register Page](screenshots/RegisterPage.png)
 
 ```javascript
 const data = {
@@ -135,7 +137,7 @@ const data = {
 ```
 <hr style="border:2px solid gray"> </hr>
 
-![Alt text](screenshots/RecoverPasswordPage.png "Recover Password Page")
+![Recover Password Page](screenshots/RecoverPasswordPage.png)
 
 ```javascript
 const data = {
