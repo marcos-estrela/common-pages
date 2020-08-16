@@ -1,0 +1,9 @@
+{
+  "name": "common-pages",
+  "version": "0.1.4",
+  "description": "Common pages component",
+  "main": "CommonPage.vue",
+  "author": "Marcos Estrela",
+  "license": "MIT",
+  "private": false
+}
